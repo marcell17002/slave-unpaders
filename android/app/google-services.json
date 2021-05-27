@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513525206067",
+    "project_id": "unpaders-21808",
+    "storage_bucket": "unpaders-21808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513525206067:android:4b0193bc4f07f1f4562746",
+        "android_client_info": {
+          "package_name": "com.unpadersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513525206067-upvlonjnl7h5muu9li71ppqau27rls4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhkdFIMwTlLVc8w6InTSTUV5Ves6DA7-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513525206067-upvlonjnl7h5muu9li71ppqau27rls4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
